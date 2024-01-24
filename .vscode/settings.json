@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/3b1a01aa-7239-4802-b623-b86aba86d83f/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/geerthiUpload",
+  "appService.deploySubpath": "."
+}
